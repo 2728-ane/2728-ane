@@ -45,7 +45,7 @@ A JavaScript weather application that retrieves and displays weather information
 
 ### 📫 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/ane-tabitha-20bb50407)
+- [LinkedIn](https://www.linkedin.com/in/ane-tabitha-651003442/)
 - [GitHub](https://github.com/2728-ane)
 - Email: anewesonga@email.com
 
